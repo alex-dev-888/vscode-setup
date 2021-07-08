@@ -1,0 +1,31 @@
+{
+  "editor.fontSize": 13,
+  "files.autoSave": "off",
+  "editor.wordWrap": "on",
+  "terminal.integrated.fontSize": 11,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.minimap.enabled": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "expand",
+  "window.zoomLevel": 2,
+  "editor.tabSize": 2,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "./dist"
+    }
+  ],
+  "editor.fontFamily": "'Ubuntu Mono','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
+}
