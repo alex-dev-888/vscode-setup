@@ -17,7 +17,10 @@
 | 11  | Svelte Intellisense                           | ardenivanov        | Provides intellisense for data, events, slots etc. in components                      |
 | 12  | vscode-styled-components                      | Julien Poissonnier | Syntax highlighting and IntelliSense for styled-components                            |
 | 13  | DotENV                                        | mikestead          | VSCode .env syntax highlighting                                                       |
-| 14  | Live Sass Compiler                            | Ritwick Dey        | Compile Sass or Scss to CSS at realtime with live browser reload                      |
+| 14  | Live Sass Compiler                            | Glenn Marks        | Compile Sass or Scss to CSS at realtime with live browser reload                      |
+| 15  | React Native Tools                            | Microsoft          | Debugging and integrated commands for React Native                                    |
+| 16  | React-Native/React/Redux snippets for es6/es7 | EQuimper           | Code snippets for React-Native/React/Redux es6/es7 and flowtype/typescript, Storybook                      |
+| 17  | Material Icon Theme                           | Philipp Kief       | Material Design Icons for Visual Studio Code                                          |
 
 ## File Config
 
