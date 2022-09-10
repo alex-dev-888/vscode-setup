@@ -19,8 +19,10 @@
 | 13  | DotENV                                        | mikestead          | VSCode .env syntax highlighting                                                       |
 | 14  | Live Sass Compiler                            | Glenn Marks        | Compile Sass or Scss to CSS at realtime with live browser reload                      |
 | 15  | React Native Tools                            | Microsoft          | Debugging and integrated commands for React Native                                    |
-| 16  | React-Native/React/Redux snippets for es6/es7 | EQuimper           | Code snippets for React-Native/React/Redux es6/es7 and flowtype/typescript, Storybook                      |
+| 16  | React-Native/React/Redux snippets for es6/es7 | EQuimper           | Code snippets for React-Native/React/Redux es6/es7 and flowtype/typescript, Storybook |
 | 17  | Material Icon Theme                           | Philipp Kief       | Material Design Icons for Visual Studio Code                                          |
+| 18  | Color Highlight                               | Sergii N           | Highlight web colors in your editor                                                   |
+| 19  | npm Intellisense                              | Christian Kohler   | Visual Studio Code plugin that autocompletes npm modules in import statements         |
 
 ## File Config
 
